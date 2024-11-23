@@ -1,0 +1,70 @@
+
+h1 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style:italic;
+    font-size: 3rem;
+    text-align: center;
+    color: #ff0000;
+    text-transform: uppercase;
+    text-shadow: 0 0 7px #ff4500, 0 0 7px #000000, 0 0 7px #ff0000;
+}
+
+
+button {
+    font-family: 'ROBOTO', sans-serif;
+    font-style:bold;
+    text-transform: uppercase;
+    color: #ff0000;
+    background-color: #000000;
+}
+
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:1.5rem;
+    font-style:bold;
+    color:aliceblue
+
+}
+
+button {
+    font-family: 'ROBOTO', sans-serif;
+    font-style:bold;
+    text-transform: uppercase;
+    color: #ff0000;
+    background-color: #000000;
+    text-align:center;
+    cursor:pointer;
+    
+  }
+#Enter {
+    size:3rem;
+    font-family: 'ROBOTO', sans-serif;
+    font-style:bold;
+    text-transform: uppercase;
+    color: #ffffff;
+    background-color: #00ff80;
+    text-align:center;
+    cursor:pointer;
+    
+}
+input {
+    width: 40%; 
+    padding: 10px; 
+    font-size: 16px; 
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    transition: border-color 0.3s ease; 
+  }
+  
+ 
+  input:focus {
+    border-color: #007BFF; 
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); 
+  }
+
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
